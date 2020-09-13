@@ -1,3 +1,6 @@
 # Bookmarker
 
-This is simple web to catch history from browser.
+this is simple web for make a website bookmark
+
+### Contributor
+teddyanr
